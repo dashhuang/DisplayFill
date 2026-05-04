@@ -1,6 +1,6 @@
 # DisplayFill Direct Release
 
-This project is configured for direct macOS distribution with `Developer ID` signing and notarization. It does not cover the Mac App Store path.
+This project is configured for direct macOS distribution with `Developer ID` signing and notarization. The Mac App Store path is documented separately in [APP_STORE.md](./APP_STORE.md).
 
 ## What Changed
 

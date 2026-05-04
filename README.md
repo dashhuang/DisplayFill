@@ -70,6 +70,10 @@ Contributions are welcome. Start with [CONTRIBUTING.md](./CONTRIBUTING.md) for l
 
 Recent project changes are tracked in [CHANGELOG.md](./CHANGELOG.md).
 
+## Privacy
+
+DisplayFill does not collect or track personal data. See [PRIVACY.md](./PRIVACY.md).
+
 ## License
 
 DisplayFill is released under the [MIT License](./LICENSE).
